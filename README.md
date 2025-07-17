@@ -1,2 +1,2 @@
 # QrCodeGen
-attendance for KIET groups students
+A simple QR Code Generator in ReactJS.
