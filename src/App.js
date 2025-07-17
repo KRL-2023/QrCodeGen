@@ -16,7 +16,8 @@ function App() {
   return (
     <div className="App bg-dark text-white min-vh-100 d-flex flex-column align-items-center justify-content-center">
       <div className={`main-content ${showQR ? 'blurred' : ''}`}>
-        <h1 className="mb-4">QR Code Generator</h1>
+        <h1 className="mb-2">Attdance QR Code Generator</h1>
+        <small><em>by KIET Robotics Lab</em></small>
         <QRCodeInput onGenerate={handleGenerate} />
       </div>
       {showQR && (

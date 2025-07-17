@@ -1,5 +1,6 @@
 {
   "name": "qrcode",
+  "homepage": "https://KRL-2023.github.io/QrCodeGen",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

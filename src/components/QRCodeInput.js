@@ -27,14 +27,14 @@ const QRCodeInput = ({ onGenerate }) => {
     if (validateInput(input)) {
       onGenerate(input);
     } else {
-      toast.error('wrong entiry');
+      toast.error('Wrong Entiry 🥁');
     }
   };
 
   return (
     <div className="container text-light">
       <div className="mb-3">
-        <label htmlFor="qrInput" className="form-label">Enter text to generate QR Code:</label>
+        <label htmlFor="qrInput" className="form-label">Enter your Roll Number here:</label>
         <input
           type="text"
           className="form-control"
