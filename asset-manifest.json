@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/QrCodeGen/static/css/main.daf3ef86.css",
-    "main.js": "/QrCodeGen/static/js/main.325153d4.js",
+    "main.js": "/QrCodeGen/static/js/main.66e65d01.js",
     "static/media/krl.png": "/QrCodeGen/static/media/krl.35cf1650b13dd8089b1e.png",
     "index.html": "/QrCodeGen/index.html",
     "main.daf3ef86.css.map": "/QrCodeGen/static/css/main.daf3ef86.css.map",
-    "main.325153d4.js.map": "/QrCodeGen/static/js/main.325153d4.js.map"
+    "main.66e65d01.js.map": "/QrCodeGen/static/js/main.66e65d01.js.map"
   },
   "entrypoints": [
     "static/css/main.daf3ef86.css",
-    "static/js/main.325153d4.js"
+    "static/js/main.66e65d01.js"
   ]
 }
